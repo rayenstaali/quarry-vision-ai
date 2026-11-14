@@ -5,13 +5,18 @@
 
 ---
 
-## 👥 Membres du Groupe
+## 👥 Membres du Groupe & Encadrement
 
+### 🎓 Étudiants (Binôme) :
 | Nom & Prénom | Compte GitHub | Rôle / Contribution |
 |:-------------|:-------------:|:--------------------|
-| **Rayen STAALI** | [@rayenstaali](https://github.com/rayenstaali) | Architecture pipeline, Inférence temps réel & Dashboard |
-| **Mohamed Zied ACHOURI** | [@Ziedash](https://github.com/Ziedash) | Préparation des données, Fine-tuning YOLO & Évaluation |
-| **Haythem GHAZOUANI** | [@haythemghz](https://github.com/haythemghz) | Moteur de tracking (ByteTrack), Règles métier & Alertes |
+| **Rayen STAALI** | [@rayenstaali](https://github.com/rayenstaali) | Architecture pipeline, Inférence temps réel & Dashboard Streamlit |
+| **Mohamed Zied ACHOURI** | [@Ziedash](https://github.com/Ziedash) | Préparation & curation des données, Fine-tuning YOLO & Évaluation |
+
+### 👨‍🏫 Enseignant / Évaluateur :
+| Nom & Prénom | Compte GitHub | Rôle |
+|:-------------|:-------------:|:-----|
+| **M. Haythem GHAZOUANI** | [@haythemghz](https://github.com/haythemghz) | Enseignant / Évaluateur du projet |
 
 ---
 
