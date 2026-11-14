@@ -1,0 +1,5 @@
+﻿ID_Camion,Premier_Passage_Sec,Dernier_Passage_Sec,Derniere_Zone,Etape_Cycle,Etat_Benne,Confiance_Benne,Debordement_Detecte,Duree_Chargement_Sec,Alertes_Associees
+1,1.2,13.8,entree,Entree Site,overloaded,0.97,OUI,0.0,Camion #1 : chargement débordant (risque chute matière) !
+2,2.0,13.8,entree,Entree Site,overloaded,0.97,OUI,0.0,Camion #2 : chargement débordant (risque chute matière) !
+15,5.8,6.7,transit,Arrivee,overloaded,0.97,OUI,0.0,Camion #15 : chargement débordant (risque chute matière) !
+40,9.2,9.2,entree,Entree Site,overloaded,0.97,OUI,0.0,Camion #40 : chargement débordant (risque chute matière) !

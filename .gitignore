@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Large datasets and media
+data/quarry_dataset/
+data/raw_videos/*.mp4
+data/raw_videos/*.avi
+outputs/*.mp4
+outputs/*.avi
+
+# YOLO / Ultralytics runs & cache
+runs/
+*.cache
+yolov8n.pt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+

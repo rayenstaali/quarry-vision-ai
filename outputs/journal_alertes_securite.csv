@@ -1,0 +1,6 @@
+﻿type,severity,truck_id,message,frame,timestamp
+SECURITE_CHARGEMENT,WARNING,1.0,Camion #1 : chargement débordant (risque chute matière) !,15,14:36:49
+SECURITE_CHARGEMENT,WARNING,2.0,Camion #2 : chargement débordant (risque chute matière) !,24,14:36:51
+SECURITE_PIETON,CRITICAL,,PIÉTON DÉTECTÉ DANS LA ZONE D'ENGINS !,65,14:36:55
+SECURITE_CHARGEMENT,WARNING,15.0,Camion #15 : chargement débordant (risque chute matière) !,69,14:36:56
+SECURITE_CHARGEMENT,WARNING,40.0,Camion #40 : chargement débordant (risque chute matière) !,110,14:37:00
